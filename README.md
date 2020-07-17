@@ -4,16 +4,17 @@
 
 ## Project goals:
 
-* create an index displaying all hog tiles
-* render each hog name and picture in a tile
-* show the hog's details upon a user's click
-* filter the hogs that are greased
-* sort the hogs based on name
-* sort the hogs based on weight 
+- [x] create an index displaying all hog tiles
+- [x] render each hog name and picture in a tile
+- [x] show the hog's details upon a user's click
 
-* BONUS: allow users to hide hogs (not delete them, just hide them from view!)
-* BONUS: bring in pig gifs from an API
-* BONUS: implement [Semantic Cards](https://semantic-ui.com/views/card.html) for each hog
+- [x] filter the hogs that are greased
+- [x] sort the hogs based on name
+- [x] sort the hogs based on weight
+
+- [x] BONUS: allow users to hide hogs (not delete them, just hide them from view!)
+~- [ ] BONUS: bring in pig gifs from an API~
+- [x] BONUS: implement [Semantic Cards](https://semantic-ui.com/views/card.html) for each hog
 
 ## Project requirements:
 
@@ -39,7 +40,7 @@ Be sure to use good programming practices, such as clear variable names and sing
 
 ## Trying to get the Hog image to render?
 
-Importing relative images in React can be tricky. Here is an example: 
+Importing relative images in React can be tricky. Here is an example:
 
 ```
 render(){

@@ -3,3 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.hogContainer {
+  border: 1px solid red;
+  width: 90vw;
+}
